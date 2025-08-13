@@ -19,9 +19,9 @@ It provides an engaging UI with movie carousels, a sidebar menu, and dynamic hov
 
 ## 📷 Screenshots
 ### Home Page – Featured Movie
-![Featured Movie]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-08-13 170822.png")
+![Featured Movie](screenshot1.png)
 
 ### New Releases Section
-![New Releases]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-08-13 170800.png")
+![New Releases](screenshot2.png)
 
 ## 📂 Project Structure
